@@ -1,0 +1,46 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "PetDemo",
+            "request": "launch",
+            "mainClass": "PetDemo",
+            "projectName": "Imu_JAVA_5e4253d2"
+        },
+        {
+            "type": "java",
+            "name": "HomePage",
+            "request": "launch",
+            "mainClass": "HomePage",
+            "projectName": "Imu_JAVA_5e4253d2"
+        },
+        {
+            "type": "java",
+            "name": "StudentDemo",
+            "request": "launch",
+            "mainClass": "StudentDemo",
+            "projectName": "Imu_JAVA_5e4253d2"
+        },
+        {
+            "type": "java",
+            "name": "Arraylist",
+            "request": "launch",
+            "mainClass": "Arraylist",
+            "projectName": "Imu_JAVA_5e4253d2"
+        },
+        {
+            "type": "java",
+            "name": "SumOfNumber",
+            "request": "launch",
+            "mainClass": "SumOfNumber",
+            "projectName": "Imu_JAVA_5e4253d2"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeDemo",
+            "request": "launch",
+            "mainClass": "EmployeeDemo",
+            "projectName": "Imu_JAVA_5e4253d2"
+        }
+    ]
+}
